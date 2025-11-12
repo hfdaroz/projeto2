@@ -1,4 +1,4 @@
-🎓 Projeto Integrador: Sistema Web de Cronograma para Concursos
+🎓 Projeto Integrador: Sistema Web de Cronograma para Concursos React + Node.js
 Este repositório apresenta o resultado do meu Projeto Integrador (PI) de faculdade, onde foi desenvolvido um Sistema Web completo focado na organização e otimização de estudos para concursos públicos.
 
 O projeto nasceu da necessidade de gerenciar eficientemente grandes volumes de conteúdo e tempo, oferecendo uma solução robusta para candidatos. Ele demonstra a capacidade de integrar diversas tecnologias e aplicar conhecimentos de engenharia de software do planejamento à implantação.
