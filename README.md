@@ -1,12 +1,22 @@
-# React + Vite
+🎓 Projeto Integrador: Sistema Web de Cronograma para Concursos
+Este repositório apresenta o resultado do meu Projeto Integrador (PI) de faculdade, onde foi desenvolvido um Sistema Web completo focado na organização e otimização de estudos para concursos públicos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O projeto nasceu da necessidade de gerenciar eficientemente grandes volumes de conteúdo e tempo, oferecendo uma solução robusta para candidatos. Ele demonstra a capacidade de integrar diversas tecnologias e aplicar conhecimentos de engenharia de software do planejamento à implantação.
 
-Currently, two official plugins are available:
+Tecnologias e Habilidades Demonstradas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Front-end: Desenvolvimento da interface de usuário com foco em usabilidade (UX) e design responsivo, garantindo que o cronograma seja acessível em diferentes dispositivos.
 
-## Expanding the ESLint configuration
+Back-end: Implementação da lógica de negócios, gerenciamento de dados de usuários e concursos, e algoritmos para distribuição inteligente de conteúdo ao longo do tempo.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Banco de Dados: Estruturação de um esquema de dados para armazenar informações sobre matérias, tarefas, metas e progresso do usuário.
+
+Funcionalidades Chave:
+
+Criação de cronogramas personalizados baseados no edital.
+
+Visualização de progresso e estatísticas de estudo.
+
+Agendamento de revisões automáticas.
+
+Este projeto é a prova da minha capacidade de entregar soluções complexas e funcionais, aplicando o ciclo de desenvolvimento de software em um cenário real.
